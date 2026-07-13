@@ -8,7 +8,7 @@
 
 ### Filtered Dashboard
 
-![Filtered Dashboard](Filtered Dashboard.png)
+![Filtered Dashboard](filtered_dashboard.png)
 
 ---
 
